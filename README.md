@@ -1,5 +1,5 @@
-# Kickstarter-Dataset-with-Excel-VBA
-# Kickstarter Data Analysis
+# Kickstarter Analytics and Visualization
+# Kickstarter Data Analysis with Excel
 
 ### Purpose
 The purpose of this project is to analyze and visualize the Kickstarter dataset to help the stakeholders understand how different campaigns fared in relation to their launch dates and funding goals. The project includes creating two technical analysis deliverables, an outcomes chart based on launch dates, and an outcomes chart based on funding goals. The goal is to provide insights and actionable recommendations to help the stakeholders make informed decisions for future crowdfunding campaigns.
